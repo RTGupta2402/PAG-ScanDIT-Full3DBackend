@@ -1,0 +1,9 @@
+const  TOOLS_COLLECTION = "Tools" ;
+const STATION_COLLECTION = "Stations";  
+const TOOLS_STATION_ATTACHED_FIELD = "stationAttached";
+
+module.exports={
+    TOOLS_COLLECTION,
+    STATION_COLLECTION,
+    TOOLS_STATION_ATTACHED_FIELD
+}

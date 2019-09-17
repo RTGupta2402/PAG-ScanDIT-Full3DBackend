@@ -1,0 +1,15 @@
+const PLANT_COLLECTION = "Plant";
+const HALL_COLLECTION = "Hall";
+const STATION_COLLECTION = "Stations";  
+const HALL_PLANT_NUMBER_FIELD = "plantNumber";
+const STATION_HALL_ATTACHED_FIELD = "hallAttached";
+
+
+module.exports = {
+    PLANT_COLLECTION,
+    HALL_COLLECTION,
+    STATION_COLLECTION,
+    HALL_PLANT_NUMBER_FIELD,
+    STATION_HALL_ATTACHED_FIELD
+}
+

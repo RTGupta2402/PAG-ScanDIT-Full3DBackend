@@ -1,0 +1,11 @@
+const PROCESSES_COLLECTION = "Processes";
+const PROCESS_NAME_FIELD = "processName";
+const PROCESS_INSTRUCTION_FIELD = "instruction";
+const PROCESS_IS_SELECTABLE_FIELD = "isSelectable";
+
+module.exports = {
+    PROCESSES_COLLECTION,
+    PROCESS_NAME_FIELD,
+    PROCESS_INSTRUCTION_FIELD,
+    PROCESS_IS_SELECTABLE_FIELD
+}
