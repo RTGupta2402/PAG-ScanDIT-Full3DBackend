@@ -18,6 +18,6 @@
     "parse-dashboard": "^1.4.3",
     "parse-server": "^3.7.2",
     "pug": "^2.0.4",
-    "sequelize": "^5.13.1"
+    "sequelize": "^5.15.1"
   }
 }
